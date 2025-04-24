@@ -1,6 +1,8 @@
-## For this project I'm using json-server for loading adapter json file, because I cannot use the link provided, I got this error:
+## For this project I'm using json-server for loading adapter json file, because I cannot use the link provided, 
 
-Access to fetch at 'https://qa-smartplugin.youbora.com/catalog/v7/js/lib/last-build/samples/adapters-json/video/videojs/7.0.5-videojs-js.json' from origin 'null' has been blocked by CORS policy, how can I save the json file locally and call the function
+I got this error:
+
+Access to fetch at 'https://qa-smartplugin.youbora.com/catalog/v7/js/lib/last-build/samples/adapters-json/video/videojs/7.0.5-videojs-js.json' from origin 'null' has been blocked by CORS policy.
 
 ## For install jason-server:
 
